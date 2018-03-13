@@ -1,7 +1,6 @@
-baseURL = "https://samclifford.github.io/"
+baseURL = "/"
 languageCode = "en-au"
 title = "Sam Clifford - Bayesian Statistics"
-theme = "blogdown-tufte"
 googleAnalytics = ""
 disqusShortname = "samclifford"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "\\.bib.*"]

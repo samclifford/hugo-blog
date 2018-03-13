@@ -12,16 +12,17 @@ disableComments: true
 
 ## Bio
 
-<span class="marginnote"><img src="170309QUT_SEF_Sam Clifford_007_640x480.jpg"></span>
+<span class="marginnote"><img src="../170309QUT_SEF_Sam Clifford_007_640x480.jpg" alt="Sam Clifford"></span>
 
 
 I'm a statistician working at <a href="http://www.qut.edu.au">Queensland University of Technology</a> on a range of environmental and environmental health problems such as jaguar conservation, reef conservation, and air pollution and its health impacts. In addition, I teach mathematics and statistics to first year science students in the unit [SEB113 - Quantitative Methods in Science](https://www.qut.edu.au/study/unit?unitCode=SEB113).
 
 
-Much of my work makes use of the following techniques, which one could consider my research interests
+Methodologically, my research interests are
 
 <ul>
   <li>Generalised Additive Models</li>
+  <li>Bayesian spline regression</li>
   <li>Spatial and spatio-temporal statistics</li>
   <li>Bayesian hierarchical linear models</li>
   <li>Exposure-response models</li>
@@ -33,7 +34,7 @@ A list of key publications is available [here](../pubs/), and a full list at [Go
 
 My undergrad was in applied and computational mathematics, focussing on fluid dynamics in my honours year under the supervision of Dr Glenn Fulford and Dr Tim Moroney.
 
-Between 2009 and 2013 I was a **PhD student** at **ILAQH** under the supervision of Professors [Lidia Morawska](http://staff.qut.edu.au/staff/morawska/) and [Kerrie Mengersen](http://staff.qut.edu.au/staff/mengerse/) and Dr [Sama Low Choy](http://staff.qut.edu.au/staff/lowchoy/).
+Between 2009 and 2013 I was a **PhD student** at the **[International Laboratory for Air Quality and Health](https://www.qut.edu.au/research/our-research/institutes-centres-and-research-groups/international-laboratory-for-air-quality-and-health)**  under the supervision of Professors [Lidia Morawska](http://staff.qut.edu.au/staff/morawska/) and [Kerrie Mengersen](http://staff.qut.edu.au/staff/mengerse/) and Dr [Sama Low Choy](http://staff.qut.edu.au/staff/lowchoy/), where I completed a thesis on spatio-temporal modelling of air pollution.
 
 
 ## Postdoctoral employment in Mathematics and Statistics
@@ -70,7 +71,7 @@ Through our <a href="http://vis.stats.technology/">Many Eyes on the Wild</a>, we
 
 ## Postdoctoral employment in Aerosol Science
 
-Between 2013 and 2015 I was employed as a **Postdoctoral Fellow** at the **[International Laboratory for Air Quality and Health](https://www.qut.edu.au/research/our-research/institutes-centres-and-research-groups/international-laboratory-for-air-quality-and-health)** (ILAQH) to support the research being done across a variety of topics in air quality. The bulk of my postdoctoral work at ILAQH was related to the <a href="https://www.qut.edu.au/research/research-projects/uptech">Ultrafine Particles from Traffic Emissions and Children's Health</a> project. The project seeks to determine the effect of the exposure to airborne nano and ultrafine (UF) particles emitted from motor vehicles on the health of children in schools.
+Between 2013 and 2015 I was employed as a **Postdoctoral Fellow** at ILAQH to support the research being done across a variety of topics in air quality. The bulk of my postdoctoral work at ILAQH was related to the <a href="https://www.qut.edu.au/research/research-projects/uptech">Ultrafine Particles from Traffic Emissions and Children's Health</a> project. The project seeks to determine the effect of the exposure to airborne nano and ultrafine (UF) particles emitted from motor vehicles on the health of children in schools.
 
 Research from my PhD and postdoctoral time with ILAQH has resulted in a number of papers looking at spatio-temporal modelling of urban air pollution with a view to estimating human exposure and modelling its health impact.
 
